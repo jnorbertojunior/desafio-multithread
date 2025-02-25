@@ -1,3 +1,3 @@
-module desafio_thread
+module multithreading
 
-go 1.19
+go 1.23.5
